@@ -20,3 +20,12 @@ public:
 	}
 };
 
+class pelajar : public orang {
+public:
+
+	pelajar(int pUmur) :
+		orang(pUmur) {
+		cout << "pelajar dibuar\n" << endl;
+	}
+};
+
