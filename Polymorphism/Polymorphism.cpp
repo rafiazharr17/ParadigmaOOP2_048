@@ -43,3 +43,4 @@ int main() {
 	//a.seseorang::pesan();	//Memanggil method yang berada di class orang tua
 	//b.seseorang::pesan();
 }
+
